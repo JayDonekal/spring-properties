@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa16fa09-ca87-4741-a3f5-6894d0a960f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22zBisr9eHsBWCemoKomAk4FTXB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codebase\spring-properties" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codebase\spring-properties\.idea" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa16fa09-ca87-4741-a3f5-6894d0a960f1" name="Default Changelist" comment="" />
+      <created>1640824946495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640824946495</updated>
+      <workItem from="1640824947752" duration="2167000" />
+      <workItem from="1640830666437" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="820" y="320" key="FileChooserDialogImpl" timestamp="1640830814190">
+      <screen x="62" y="0" width="4034" height="1152" />
+    </state>
+    <state x="820" y="320" key="FileChooserDialogImpl/62.0.4034.1152@62.0.4034.1152" timestamp="1640830814190" />
+    <state x="549" y="208" key="SettingsEditor" timestamp="1640830861775">
+      <screen x="62" y="0" width="4034" height="1152" />
+    </state>
+    <state x="549" y="208" key="SettingsEditor/62.0.4034.1152@62.0.4034.1152" timestamp="1640830861775" />
+    <state x="1011" y="204" key="new project wizard" timestamp="1640830676146">
+      <screen x="62" y="0" width="4034" height="1152" />
+    </state>
+    <state x="1011" y="204" key="new project wizard/62.0.4034.1152@62.0.4034.1152" timestamp="1640830676146" />
+  </component>
+</project>
