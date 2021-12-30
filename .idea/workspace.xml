@@ -25,11 +25,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codebase\spring-properties" />
+      <recent name="D:\codebase\spring-properties\.idea" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\codebase\spring-properties" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\codebase\spring-properties\.idea" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -43,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640824946495</updated>
       <workItem from="1640824947752" duration="2167000" />
-      <workItem from="1640830666437" duration="195000" />
+      <workItem from="1640830666437" duration="4779000" />
     </task>
     <servers />
   </component>
@@ -51,14 +52,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="820" y="320" key="FileChooserDialogImpl" timestamp="1640830814190">
+    <state x="820" y="320" key="FileChooserDialogImpl" timestamp="1640832536063">
       <screen x="62" y="0" width="4034" height="1152" />
     </state>
-    <state x="820" y="320" key="FileChooserDialogImpl/62.0.4034.1152@62.0.4034.1152" timestamp="1640830814190" />
-    <state x="549" y="208" key="SettingsEditor" timestamp="1640830861775">
+    <state x="820" y="320" key="FileChooserDialogImpl/62.0.4034.1152@62.0.4034.1152" timestamp="1640832536063" />
+    <state x="549" y="208" key="SettingsEditor" timestamp="1640833408903">
       <screen x="62" y="0" width="4034" height="1152" />
     </state>
-    <state x="549" y="208" key="SettingsEditor/62.0.4034.1152@62.0.4034.1152" timestamp="1640830861775" />
+    <state x="549" y="208" key="SettingsEditor/62.0.4034.1152@62.0.4034.1152" timestamp="1640833408903" />
     <state x="1011" y="204" key="new project wizard" timestamp="1640830676146">
       <screen x="62" y="0" width="4034" height="1152" />
     </state>
